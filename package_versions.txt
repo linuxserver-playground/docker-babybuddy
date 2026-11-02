@@ -45,7 +45,7 @@ cli                      UNKNOWN           binary
 cli-32                   UNKNOWN           binary                           
 cli-64                   UNKNOWN           binary                           
 cli-arm64                UNKNOWN           binary                           
-composer                 2.10.3            php-composer                     
+composer                 2.11.1            php-composer                     
 coreutils                9.11-r0           apk                              
 coreutils-env            9.11-r0           apk                              
 coreutils-fmt            9.11-r0           apk                              
