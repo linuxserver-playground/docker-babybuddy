@@ -131,7 +131,7 @@ libwebp                  1.6.0             UnknownPackage
 libxau                   1.0.12-r0         apk                              
 libxcb                   1.17.0            UnknownPackage                   
 libxdmcp                 1.1.5-r1          apk                              
-libxml2                  2.13.9-r2         apk                              
+libxml2                  2.13.9-r3         apk                              
 libxslt                  1.1.43-r4         apk                              
 libzip                   1.11.4-r2         apk                              
 linux-pam                1.7.1-r2          apk                              
@@ -153,21 +153,21 @@ oniguruma                6.9.10-r0         apk
 openssl                  3.5.9-r1          apk                              
 packaging                26.3              python          (+2 duplicates)  
 pcre2                    10.49-r0          apk                              
-php85                    8.5.12-r0         apk                              
-php85-common             8.5.12-r0         apk                              
-php85-ctype              8.5.12-r0         apk                              
-php85-curl               8.5.12-r0         apk                              
-php85-fileinfo           8.5.12-r0         apk                              
-php85-fpm                8.5.12-r0         apk                              
-php85-iconv              8.5.12-r0         apk                              
-php85-mbstring           8.5.12-r0         apk                              
-php85-openssl            8.5.12-r0         apk                              
-php85-phar               8.5.12-r0         apk                              
-php85-session            8.5.12-r0         apk                              
-php85-simplexml          8.5.12-r0         apk                              
-php85-xml                8.5.12-r0         apk                              
-php85-xmlwriter          8.5.12-r0         apk                              
-php85-zip                8.5.12-r0         apk                              
+php85                    8.5.13-r0         apk                              
+php85-common             8.5.13-r0         apk                              
+php85-ctype              8.5.13-r0         apk                              
+php85-curl               8.5.13-r0         apk                              
+php85-fileinfo           8.5.13-r0         apk                              
+php85-fpm                8.5.13-r0         apk                              
+php85-iconv              8.5.13-r0         apk                              
+php85-mbstring           8.5.13-r0         apk                              
+php85-openssl            8.5.13-r0         apk                              
+php85-phar               8.5.13-r0         apk                              
+php85-session            8.5.13-r0         apk                              
+php85-simplexml          8.5.13-r0         apk                              
+php85-xml                8.5.13-r0         apk                              
+php85-xmlwriter          8.5.13-r0         apk                              
+php85-zip                8.5.13-r0         apk                              
 pilkit                   3.0               python                           
 pillow                   12.3.0            python          (+1 duplicate)   
 pip                      26.3              python                           
